@@ -1,4 +1,4 @@
-# Fly Tracking from 2D Observation in Image Plane using an EKF
+# Fly Tracking from 2D Observations in Image Plane using an EKF
 
 Consider the scenario depicted in the figure where a robot tries to catch a fly that it tracks visually with its cameras. 
 
