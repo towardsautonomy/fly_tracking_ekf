@@ -19,7 +19,7 @@ K = [[500, 0, 320],
 
 ```
 
-Initially, the fly is sitting on the fingertip of the robot when it is noticing it for the first time. Therefore, the robot knows the fly's initial position from forward kinematics to be at `p0 =(0.5, 0, 5.0)` (resting velocity). Trajectory of the fly has been simulated with added noise for this problem.
+Initially, the fly is sitting on the fingertip of the robot when it is noticing it for the first time. Therefore, the robot knows the fly's initial position from forward kinematics to be at `p0 =(0.5, 0, 5.0)` (resting velocity). Trajectory of the fly has been simulated with added noisy observations for this problem.
 
 Simulated fly's trajectory  | 2D Observation 
 :----------------------------:|:-------------------------:
